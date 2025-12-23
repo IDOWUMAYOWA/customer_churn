@@ -1,0 +1,8 @@
+# Ignore CSV data files
+*.csv
+
+# Or ignore a specific file
+customer_shopping_behavior.csv
+
+# Or ignore the entire data folder (if needed)
+clean_data.csv
